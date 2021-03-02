@@ -3,7 +3,8 @@
 This repo contains sample code of Machine Learning model using Tensorflow
 
 ## Applications
-- Regression
+- Linear regression
+- Logistic regression
 - Gradient Boosted Decision Trees
 - Image classification
 - Data clustering
